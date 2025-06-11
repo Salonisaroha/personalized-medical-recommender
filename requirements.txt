@@ -1,0 +1,9 @@
+Flask==2.3.2
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.2.2
+joblib==1.2.0
+matplotlib==3.7.1
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+Werkzeug==2.3.6
